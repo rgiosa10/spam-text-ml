@@ -2,7 +2,7 @@
 
 #### By [Ruben Giosa](https://www.linkedin.com/in/rubengiosa/)
 
-#### This repo is for sandboxing using BeautifulSoup for web-scraping data from Wikipedia. It then cleans up the data and exports the cleaned up data to a CSV.
+#### This repo is for sandboxing of ML by leveraging Vertex AI to categorize sports images by each of their respective sport. This categorizes basketball, baseball, and archery images.
 
 <img src="imgs/vertex_ai_import.png" alt="sample of work" width="750"/>
 
