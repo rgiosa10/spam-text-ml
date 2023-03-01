@@ -2,7 +2,7 @@
 
 #### By [Ruben Giosa](https://www.linkedin.com/in/rubengiosa/)
 
-#### This repo is for sandboxing of ML by leveraging Vertex AI to categorize sports images by each of their respective sport. This categorizes basketball, baseball, and archery images.
+#### This repo has some exploration of ML by leveraging Vertex AI to categorize sports images by each of their respective sport. This categorizes basketball, baseball, and archery images.
 
 <img src="imgs/vertex_ai_import.png" alt="sample of work" width="750"/>
 
